@@ -1,5 +1,5 @@
 {
-    "name": "el que envia",
+    "name": "Emisor",
     "description": "",
     "dependencies": {
         "core": "*",
